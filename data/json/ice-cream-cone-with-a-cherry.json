@@ -1,0 +1,277 @@
+{
+  "id": "ice-cream-cone-with-a-cherry",
+  "name": "Ice Cream Cone with a Cherry",
+  "width": 13,
+  "height": 13,
+  "squares": 97,
+  "colors": 10,
+  "tags": [
+    "food",
+    "cherry",
+    "sweet",
+    "dessert",
+    "ice-cream"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#EEE4CF",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#B45C45",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#504A71",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#D6564C",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#FAFBFF",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#EB523D",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#433E5F",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#FAE0B5",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#956E66",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#DEB485",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      2,
+      2,
+      3,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      4,
+      4,
+      5,
+      4,
+      4,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      6,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      2,
+      4,
+      4,
+      4,
+      0,
+      7,
+      7,
+      4,
+      4,
+      4,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      4,
+      4,
+      0,
+      8,
+      7,
+      7,
+      7,
+      4,
+      4,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      4,
+      7,
+      7,
+      7,
+      8,
+      0,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      4,
+      9,
+      7,
+      7,
+      7,
+      7,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      4,
+      8,
+      7,
+      7,
+      7,
+      8,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      4,
+      9,
+      7,
+      8,
+      4,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      4,
+      9,
+      9,
+      9,
+      4,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      2,
+      2,
+      2,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:06:38.926192Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/ice-cream-cone-with-a-cherry",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/ice-cream-cone-with-a-cherry",
+    "de": "https://www.squarecoloring.com/de/vorlage/eistuete-mit-kirsche",
+    "fr": "https://www.squarecoloring.com/fr/fiche/cornet-de-glace-a-la-cerise"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Ice Cream Cone with a Cherry” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/ice-cream-cone-with-a-cherry"
+}

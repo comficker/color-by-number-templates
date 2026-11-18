@@ -1,0 +1,258 @@
+{
+  "id": "laughing-so-hard-im-crying-face",
+  "name": "Laughing So Hard I'm Crying Face",
+  "width": 13,
+  "height": 13,
+  "squares": 135,
+  "colors": 6,
+  "tags": [
+    "emoji",
+    "face",
+    "yellow",
+    "crying",
+    "laughing"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#FFD504",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#562E00",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#4C2F1C",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#1491BF",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#0989E7",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#FFFEE9",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      null
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      4,
+      0,
+      5,
+      null,
+      5,
+      5,
+      null,
+      0,
+      4,
+      4,
+      0
+    ],
+    [
+      null,
+      4,
+      4,
+      0,
+      2,
+      1,
+      1,
+      1,
+      2,
+      0,
+      4,
+      4,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-28T06:57:36.304016Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/laughing-so-hard-im-crying-face",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/laughing-so-hard-im-crying-face",
+    "de": "https://www.squarecoloring.com/de/vorlage/traenen-lachendes-gesicht",
+    "fr": "https://www.squarecoloring.com/fr/fiche/visage-qui-pleure-de-rire"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Laughing So Hard I'm Crying Face” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/laughing-so-hard-im-crying-face"
+}

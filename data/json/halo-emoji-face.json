@@ -1,0 +1,258 @@
+{
+  "id": "halo-emoji-face",
+  "name": "Halo Emoji Face",
+  "width": 13,
+  "height": 13,
+  "squares": 151,
+  "colors": 6,
+  "tags": [
+    "emoji",
+    "face",
+    "yellow",
+    "smiley",
+    "halo"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#FFFDFF",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#2B63FF",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#FFD400",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#49A3FF",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#4D2F05",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#53261E",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null
+    ],
+    [
+      1,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      1
+    ],
+    [
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      2,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4,
+      2,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      4,
+      4,
+      5,
+      2,
+      2,
+      2,
+      4,
+      4,
+      5,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      5,
+      2,
+      4,
+      2,
+      2,
+      2,
+      4,
+      2,
+      5,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      null,
+      2,
+      2,
+      5,
+      2,
+      2,
+      2,
+      2,
+      2,
+      5,
+      2,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      2,
+      2,
+      4,
+      5,
+      5,
+      5,
+      5,
+      2,
+      2,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      2,
+      2,
+      2,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-28T06:56:03.521745Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/halo-emoji-face",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/halo-emoji-face",
+    "de": "https://www.squarecoloring.com/de/vorlage/gesicht-mit-heiligenschein",
+    "fr": "https://www.squarecoloring.com/fr/fiche/visage-avec-aureole"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Halo Emoji Face” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/halo-emoji-face"
+}

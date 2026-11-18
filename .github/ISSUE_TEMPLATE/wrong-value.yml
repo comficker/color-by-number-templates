@@ -1,0 +1,27 @@
+name: Wrong value in a template
+description: A number, a colour or a count that does not match the printed sheet.
+labels: [data]
+body:
+  - type: input
+    id: template
+    attributes:
+      label: Template id
+      description: The file name without .json, e.g. chubby-bumblebee
+      placeholder: chubby-bumblebee
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: Which square, which number in the key, or which count — and what you expected instead.
+      placeholder: |
+        Square at row 7, column 4 is 5, but the PDF prints 6.
+    validations:
+      required: true
+  - type: input
+    id: compared
+    attributes:
+      label: What did you compare it with?
+      description: The sheet's page or its PDF, if you checked against one.
+      placeholder: https://www.squarecoloring.com/page/chubby-bumblebee

@@ -1,0 +1,343 @@
+{
+  "id": "hooded-figure",
+  "name": "Hooded Figure",
+  "width": 14,
+  "height": 16,
+  "squares": 164,
+  "colors": 11,
+  "tags": [
+    "red",
+    "character",
+    "cloak",
+    "hood",
+    "warrior"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#342C3A",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#19151B",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#DB4637",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#E9827D",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#53443F",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#CEAB85",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#A89474",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#DEB867",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#AD4A33",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#827B71",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#425151",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      1,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      2,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      1,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      2,
+      2,
+      4,
+      1,
+      5,
+      5,
+      5,
+      1,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      2,
+      2,
+      4,
+      1,
+      5,
+      5,
+      5,
+      1,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      2,
+      2,
+      4,
+      6,
+      5,
+      0,
+      5,
+      6,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      2,
+      2,
+      2,
+      4,
+      5,
+      5,
+      5,
+      4,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      7,
+      2,
+      2,
+      2,
+      4,
+      6,
+      4,
+      2,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      8,
+      2,
+      2,
+      2,
+      2,
+      4,
+      2,
+      3,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      8,
+      4,
+      2,
+      2,
+      2,
+      4,
+      2,
+      3,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      4,
+      4,
+      2,
+      2,
+      2,
+      4,
+      2,
+      9,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      8,
+      2,
+      2,
+      2,
+      2,
+      10,
+      2,
+      3,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-08-15T16:57:22.090564Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/hooded-figure",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/hooded-figure",
+    "de": "https://www.squarecoloring.com/de/vorlage/gestalt-mit-kapuze",
+    "fr": "https://www.squarecoloring.com/fr/fiche/silhouette-a-capuche"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Hooded Figure” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/hooded-figure"
+}

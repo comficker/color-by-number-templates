@@ -1,0 +1,183 @@
+{
+  "id": "small-potion",
+  "name": "Small Potion",
+  "width": 8,
+  "height": 8,
+  "squares": 46,
+  "colors": 14,
+  "tags": [
+    "red",
+    "game",
+    "item",
+    "bottle",
+    "potion"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#FFFFFF",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#5A595E",
+      "used": false
+    },
+    {
+      "number": 2,
+      "hex": "#201E2D",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#100F17",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#B1AFB9",
+      "used": false
+    },
+    {
+      "number": 5,
+      "hex": "#E7E6EA",
+      "used": false
+    },
+    {
+      "number": 6,
+      "hex": "#9E514F",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#9B3F34",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#C76C61",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#7E2838",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#BC5442",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#8C261E",
+      "used": true
+    },
+    {
+      "number": 12,
+      "hex": "#6E2326",
+      "used": true
+    },
+    {
+      "number": 13,
+      "hex": "#371320",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      3,
+      2,
+      2,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      3,
+      0,
+      0,
+      0,
+      0,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      3,
+      0,
+      0,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      2,
+      2,
+      0,
+      0,
+      2,
+      2,
+      null
+    ],
+    [
+      2,
+      6,
+      7,
+      7,
+      7,
+      6,
+      8,
+      2
+    ],
+    [
+      2,
+      9,
+      10,
+      11,
+      11,
+      9,
+      11,
+      2
+    ],
+    [
+      null,
+      2,
+      12,
+      9,
+      8,
+      9,
+      13,
+      null
+    ],
+    [
+      null,
+      null,
+      3,
+      3,
+      2,
+      2,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-28T06:41:05.949387Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/small-potion",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/small-potion",
+    "de": "https://www.squarecoloring.com/de/vorlage/kleiner-zaubertrank",
+    "fr": "https://www.squarecoloring.com/fr/fiche/petite-potion"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Small Potion” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/small-potion"
+}

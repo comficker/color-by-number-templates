@@ -1,0 +1,311 @@
+{
+  "id": "fresh-carrot",
+  "name": "Fresh Carrot",
+  "width": 14,
+  "height": 14,
+  "squares": 76,
+  "colors": 11,
+  "tags": [
+    "food",
+    "vegetable",
+    "carrot",
+    "farming",
+    "produce"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#1CBD6E",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#3CA872",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#BFDF7C",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#DF502D",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#CC5B43",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#FDBB38",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#99D661",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#84E177",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#FA9518",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#C46029",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#FA6C1F",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      1,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2,
+      0,
+      2,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      2,
+      0,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      3,
+      3,
+      4,
+      2,
+      2,
+      1,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      4,
+      5,
+      5,
+      5,
+      3,
+      6,
+      7,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      3,
+      5,
+      8,
+      8,
+      8,
+      9,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      3,
+      8,
+      8,
+      8,
+      8,
+      8,
+      3,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      3,
+      8,
+      8,
+      10,
+      8,
+      8,
+      10,
+      3,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      3,
+      8,
+      8,
+      8,
+      10,
+      10,
+      3,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      3,
+      10,
+      8,
+      8,
+      10,
+      3,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      3,
+      8,
+      8,
+      10,
+      3,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      4,
+      8,
+      8,
+      10,
+      3,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      3,
+      10,
+      10,
+      3,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      3,
+      3,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:06:16.565576Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/fresh-carrot",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/fresh-carrot",
+    "de": "https://www.squarecoloring.com/de/vorlage/frische-karotte",
+    "fr": "https://www.squarecoloring.com/fr/fiche/carotte-fraiche"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Fresh Carrot” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/fresh-carrot"
+}

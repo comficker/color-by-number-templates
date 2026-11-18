@@ -1,0 +1,311 @@
+{
+  "id": "morning-tea-cup",
+  "name": "Morning Tea Cup",
+  "width": 14,
+  "height": 14,
+  "squares": 149,
+  "colors": 11,
+  "tags": [
+    "cup",
+    "drink",
+    "mug",
+    "breakfast",
+    "tea"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#EEE4CF",
+      "used": false
+    },
+    {
+      "number": 1,
+      "hex": "#A1ABB0",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#C8DDD6",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#FCFDFE",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#946A6F",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#B39584",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#472A40",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#7E6D88",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#EEBF3F",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#D4DDB6",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#F9C422",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3,
+      2,
+      1,
+      null,
+      null
+    ],
+    [
+      1,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      3,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      3,
+      5,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      5,
+      3,
+      2,
+      2,
+      1
+    ],
+    [
+      1,
+      2,
+      3,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      3,
+      2,
+      1,
+      2,
+      1
+    ],
+    [
+      1,
+      2,
+      2,
+      3,
+      7,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    [
+      1,
+      2,
+      2,
+      2,
+      7,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    [
+      1,
+      2,
+      2,
+      2,
+      8,
+      9,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      null
+    ],
+    [
+      1,
+      2,
+      2,
+      8,
+      8,
+      8,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      2,
+      10,
+      8,
+      8,
+      2,
+      2,
+      2,
+      2,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:06:58.559397Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/morning-tea-cup",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/morning-tea-cup",
+    "de": "https://www.squarecoloring.com/de/vorlage/tasse-tee-am-morgen",
+    "fr": "https://www.squarecoloring.com/fr/fiche/tasse-de-the-du-matin"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Morning Tea Cup” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/morning-tea-cup"
+}

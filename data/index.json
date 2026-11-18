@@ -1,0 +1,2898 @@
+{
+  "name": "color-by-number-templates",
+  "source": "SquareColoring",
+  "homepage": "https://www.squarecoloring.com/printable",
+  "license": "CC-BY-4.0",
+  "credit": "Colour-by-number templates by SquareColoring (https://www.squarecoloring.com)",
+  "numbering": "Legend numbers index the key and start at 0, matching the printed PDF.",
+  "generated": "2026-11-18",
+  "collections": [
+    {
+      "id": "printables",
+      "title": "Color by number printables",
+      "url": "https://www.squarecoloring.com/printable",
+      "count": 113
+    },
+    {
+      "id": "for-kids",
+      "title": "Color by number for kids",
+      "url": "https://www.squarecoloring.com/printable/for-kids",
+      "count": 45
+    },
+    {
+      "id": "for-adults",
+      "title": "Color by number for adults",
+      "url": "https://www.squarecoloring.com/printable/for-adults",
+      "count": 42
+    },
+    {
+      "id": "animals",
+      "title": "Animal color by number",
+      "url": "https://www.squarecoloring.com/printable/animals",
+      "count": 30
+    },
+    {
+      "id": "pixel-art",
+      "title": "Pixel art color by number",
+      "url": "https://www.squarecoloring.com/printable/pixel-art",
+      "count": 84
+    }
+  ],
+  "templates": [
+    {
+      "id": "adventurer-in-fedora",
+      "name": "Adventurer in Fedora",
+      "width": 20,
+      "height": 20,
+      "squares": 193,
+      "colors": 11,
+      "tags": [
+        "character",
+        "adventurer",
+        "jacket",
+        "man",
+        "fedora"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/adventurer-in-fedora",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/adventurer-in-fedora",
+        "de": "https://www.squarecoloring.com/de/vorlage/abenteurer-mit-hut",
+        "fr": "https://www.squarecoloring.com/fr/fiche/aventurier-au-chapeau"
+      }
+    },
+    {
+      "id": "angry-red-face",
+      "name": "Angry Red Face",
+      "width": 13,
+      "height": 14,
+      "squares": 148,
+      "colors": 6,
+      "tags": [
+        "red",
+        "emoji",
+        "face",
+        "angry",
+        "emotion"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/angry-red-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/angry-red-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/wuetendes-rotes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-rouge-en-colere"
+      }
+    },
+    {
+      "id": "bald-man-with-beard",
+      "name": "Bald Man with Beard",
+      "width": 22,
+      "height": 22,
+      "squares": 270,
+      "colors": 8,
+      "tags": [
+        "character",
+        "avatar",
+        "rpg",
+        "man",
+        "beard"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/bald-man-with-beard",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/bald-man-with-beard",
+        "de": "https://www.squarecoloring.com/de/vorlage/glatzkopf-mit-bart",
+        "fr": "https://www.squarecoloring.com/fr/fiche/homme-chauve-a-barbe"
+      }
+    },
+    {
+      "id": "blue-crescent-bird",
+      "name": "Blue Crescent Bird",
+      "width": 15,
+      "height": 15,
+      "squares": 90,
+      "colors": 10,
+      "tags": [
+        "blue",
+        "bird",
+        "fantasy",
+        "animal",
+        "crescent"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/blue-crescent-bird",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/blue-crescent-bird",
+        "de": "https://www.squarecoloring.com/de/vorlage/blauer-sichelvogel",
+        "fr": "https://www.squarecoloring.com/fr/fiche/oiseau-bleu-en-croissant"
+      }
+    },
+    {
+      "id": "blue-cupcake",
+      "name": "Blue Cupcake",
+      "width": 12,
+      "height": 12,
+      "squares": 108,
+      "colors": 9,
+      "tags": [
+        "food",
+        "blue",
+        "dessert",
+        "cake",
+        "cupcake"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/blue-cupcake",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/blue-cupcake",
+        "de": "https://www.squarecoloring.com/de/vorlage/blauer-cupcake",
+        "fr": "https://www.squarecoloring.com/fr/fiche/cupcake-bleu"
+      }
+    },
+    {
+      "id": "blue-milk-cartons",
+      "name": "Blue milk cartons",
+      "width": 18,
+      "height": 18,
+      "squares": 192,
+      "colors": 11,
+      "tags": [
+        "blue",
+        "milk",
+        "carton",
+        "interface",
+        "screenshot"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/blue-milk-cartons",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/blue-milk-cartons",
+        "de": "https://www.squarecoloring.com/de/vorlage/blaue-milchtueten",
+        "fr": "https://www.squarecoloring.com/fr/fiche/briques-de-lait-bleues"
+      }
+    },
+    {
+      "id": "blue-whale-spouting",
+      "name": "Blue Whale Spouting",
+      "width": 20,
+      "height": 20,
+      "squares": 158,
+      "colors": 7,
+      "tags": [
+        "blue",
+        "animal",
+        "ocean",
+        "whale"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/blue-whale-spouting",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/blue-whale-spouting",
+        "de": "https://www.squarecoloring.com/de/vorlage/blauwal-mit-fontaene",
+        "fr": "https://www.squarecoloring.com/fr/fiche/baleine-bleue-qui-souffle"
+      }
+    },
+    {
+      "id": "blushing-wink-face",
+      "name": "Blushing Wink Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "wink",
+        "smiley"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/blushing-wink-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/blushing-wink-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/zwinkerndes-gesicht-mit-roten-wangen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-qui-cligne-et-rougit"
+      }
+    },
+    {
+      "id": "brown-bear-pixel-art",
+      "name": "Brown Bear Pixel Art",
+      "width": 21,
+      "height": 21,
+      "squares": 224,
+      "colors": 8,
+      "tags": [
+        "cute",
+        "bear",
+        "brown"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/brown-bear-pixel-art",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/brown-bear-pixel-art",
+        "de": "https://www.squarecoloring.com/de/vorlage/brauner-baer",
+        "fr": "https://www.squarecoloring.com/fr/fiche/ours-brun"
+      }
+    },
+    {
+      "id": "bunch-of-grapes",
+      "name": "Bunch of Grapes",
+      "width": 11,
+      "height": 11,
+      "squares": 63,
+      "colors": 5,
+      "tags": [
+        "food",
+        "fruit",
+        "grapes",
+        "purple",
+        "stem"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/bunch-of-grapes",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/bunch-of-grapes",
+        "de": "https://www.squarecoloring.com/de/vorlage/weintraube",
+        "fr": "https://www.squarecoloring.com/fr/fiche/grappe-de-raisin"
+      }
+    },
+    {
+      "id": "business-man",
+      "name": "Business Man",
+      "width": 21,
+      "height": 21,
+      "squares": 203,
+      "colors": 11,
+      "tags": [
+        "game",
+        "character",
+        "suit",
+        "man",
+        "business"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/business-man",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/business-man",
+        "de": "https://www.squarecoloring.com/de/vorlage/mann-im-anzug",
+        "fr": "https://www.squarecoloring.com/fr/fiche/homme-en-costume"
+      }
+    },
+    {
+      "id": "casual-guy-in-blue-jacket",
+      "name": "Casual Guy in Blue Jacket",
+      "width": 24,
+      "height": 24,
+      "squares": 317,
+      "colors": 15,
+      "tags": [
+        "character",
+        "avatar",
+        "rpg",
+        "jacket",
+        "guy"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/casual-guy-in-blue-jacket",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/casual-guy-in-blue-jacket",
+        "de": "https://www.squarecoloring.com/de/vorlage/junge-in-blauer-jacke",
+        "fr": "https://www.squarecoloring.com/fr/fiche/garcon-en-veste-bleue"
+      }
+    },
+    {
+      "id": "cat-under-a-sprout",
+      "name": "Cat Under a Sprout",
+      "width": 24,
+      "height": 24,
+      "squares": 225,
+      "colors": 8,
+      "tags": [
+        "cat",
+        "animal",
+        "plant",
+        "leaf",
+        "sprout"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/cat-under-a-sprout",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/cat-under-a-sprout",
+        "de": "https://www.squarecoloring.com/de/vorlage/katze-unter-einem-keimling",
+        "fr": "https://www.squarecoloring.com/fr/fiche/chat-sous-une-pousse"
+      }
+    },
+    {
+      "id": "chameleon-in-pixels",
+      "name": "Chameleon in Pixels",
+      "width": 18,
+      "height": 18,
+      "squares": 155,
+      "colors": 10,
+      "tags": [
+        "cute",
+        "chameleon"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chameleon-in-pixels",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chameleon-in-pixels",
+        "de": "https://www.squarecoloring.com/de/vorlage/chamaeleon",
+        "fr": "https://www.squarecoloring.com/fr/fiche/cameleon"
+      }
+    },
+    {
+      "id": "chubby-blue-cat",
+      "name": "Chubby Blue Cat",
+      "width": 17,
+      "height": 17,
+      "squares": 209,
+      "colors": 6,
+      "tags": [
+        "cat",
+        "blue",
+        "pet",
+        "animal",
+        "chubby"
+      ],
+      "collections": [
+        "printables",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chubby-blue-cat",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chubby-blue-cat",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummelige-blaue-katze",
+        "fr": "https://www.squarecoloring.com/fr/fiche/chat-bleu-tout-rond"
+      }
+    },
+    {
+      "id": "chubby-bumblebee",
+      "name": "Chubby Bumblebee",
+      "width": 14,
+      "height": 14,
+      "squares": 126,
+      "colors": 9,
+      "tags": [
+        "animal",
+        "bug",
+        "insect",
+        "bee",
+        "yellow"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chubby-bumblebee",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chubby-bumblebee",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummelige-hummel",
+        "fr": "https://www.squarecoloring.com/fr/fiche/bourdon-tout-rond"
+      }
+    },
+    {
+      "id": "chubby-dodo-bird",
+      "name": "Chubby Dodo Bird",
+      "width": 16,
+      "height": 16,
+      "squares": 141,
+      "colors": 7,
+      "tags": [
+        "bird",
+        "animal",
+        "creature",
+        "prehistoric",
+        "dodo"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chubby-dodo-bird",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chubby-dodo-bird",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummeliger-dodo",
+        "fr": "https://www.squarecoloring.com/fr/fiche/dodo-tout-rond"
+      }
+    },
+    {
+      "id": "chubby-little-penguin",
+      "name": "Chubby Little Penguin",
+      "width": 22,
+      "height": 22,
+      "squares": 328,
+      "colors": 6,
+      "tags": [
+        "bird",
+        "penguin",
+        "animal",
+        "chubby"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chubby-little-penguin",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chubby-little-penguin",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummeliger-kleiner-pinguin",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-pingouin-tout-rond"
+      }
+    },
+    {
+      "id": "chubby-orange-cat",
+      "name": "Chubby Orange Cat",
+      "width": 18,
+      "height": 18,
+      "squares": 209,
+      "colors": 6,
+      "tags": [
+        "cat",
+        "pet",
+        "animal",
+        "orange",
+        "chunky"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chubby-orange-cat",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chubby-orange-cat",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummelige-orange-katze",
+        "fr": "https://www.squarecoloring.com/fr/fiche/chat-orange-tout-rond"
+      }
+    },
+    {
+      "id": "chubby-orange-cat-3035",
+      "name": "Chubby Orange Cat",
+      "width": 17,
+      "height": 17,
+      "squares": 207,
+      "colors": 6,
+      "tags": [
+        "cat",
+        "pet",
+        "animal",
+        "orange",
+        "chubby"
+      ],
+      "collections": [
+        "printables",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/chubby-orange-cat-3035",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/chubby-orange-cat-3035",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummelige-orange-katze-17x17",
+        "fr": "https://www.squarecoloring.com/fr/fiche/chat-orange-tout-rond-17x17"
+      }
+    },
+    {
+      "id": "clownfish",
+      "name": "Clownfish",
+      "width": 14,
+      "height": 14,
+      "squares": 78,
+      "colors": 7,
+      "tags": [
+        "fish",
+        "animal",
+        "sea",
+        "ocean",
+        "clownfish"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/clownfish",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/clownfish",
+        "de": "https://www.squarecoloring.com/de/vorlage/clownfisch",
+        "fr": "https://www.squarecoloring.com/fr/fiche/poisson-clown"
+      }
+    },
+    {
+      "id": "cooked-chicken",
+      "name": "Cooked Chicken",
+      "width": 16,
+      "height": 16,
+      "squares": 152,
+      "colors": 10,
+      "tags": [
+        "food",
+        "chicken",
+        "item",
+        "rpg",
+        "meat"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/cooked-chicken",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/cooked-chicken",
+        "de": "https://www.squarecoloring.com/de/vorlage/brathaehnchen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/poulet-roti"
+      }
+    },
+    {
+      "id": "cool-yellow-smiley",
+      "name": "Cool Yellow Smiley",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 8,
+      "tags": [
+        "face",
+        "sunglasses",
+        "yellow",
+        "smiley"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/cool-yellow-smiley",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/cool-yellow-smiley",
+        "de": "https://www.squarecoloring.com/de/vorlage/cooler-gelber-smiley",
+        "fr": "https://www.squarecoloring.com/fr/fiche/smiley-jaune-a-lunettes"
+      }
+    },
+    {
+      "id": "copper-pumpkin",
+      "name": "Copper Pumpkin",
+      "width": 16,
+      "height": 16,
+      "squares": 234,
+      "colors": 12,
+      "tags": [
+        "pumpkin",
+        "box",
+        "copper",
+        "chest",
+        "container"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/copper-pumpkin",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/copper-pumpkin",
+        "de": "https://www.squarecoloring.com/de/vorlage/kupferfarbener-kuerbis",
+        "fr": "https://www.squarecoloring.com/fr/fiche/citrouille-cuivree"
+      }
+    },
+    {
+      "id": "crying-face",
+      "name": "Crying Face",
+      "width": 13,
+      "height": 13,
+      "squares": 139,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "face",
+        "crying",
+        "sad",
+        "tears"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/crying-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/crying-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/weinendes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-en-pleurs"
+      }
+    },
+    {
+      "id": "dodo-head-profile",
+      "name": "Dodo Head Profile",
+      "width": 19,
+      "height": 19,
+      "squares": 113,
+      "colors": 10,
+      "tags": [
+        "bird",
+        "head",
+        "animal",
+        "dodo",
+        "beak"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/dodo-head-profile",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/dodo-head-profile",
+        "de": "https://www.squarecoloring.com/de/vorlage/dodo-im-profil",
+        "fr": "https://www.squarecoloring.com/fr/fiche/dodo-de-profil"
+      }
+    },
+    {
+      "id": "double-cherry",
+      "name": "Double Cherry",
+      "width": 15,
+      "height": 15,
+      "squares": 124,
+      "colors": 11,
+      "tags": [
+        "food",
+        "fruit",
+        "cherry",
+        "leaves",
+        "stem"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/double-cherry",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/double-cherry",
+        "de": "https://www.squarecoloring.com/de/vorlage/zwei-kirschen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/deux-cerises"
+      }
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "width": 16,
+      "height": 16,
+      "squares": 157,
+      "colors": 10,
+      "tags": [
+        "monster",
+        "character",
+        "halloween",
+        "dracula",
+        "vampire"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/dracula",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/dracula",
+        "de": "https://www.squarecoloring.com/de/vorlage/dracula",
+        "fr": "https://www.squarecoloring.com/fr/fiche/dracula"
+      }
+    },
+    {
+      "id": "dragon-8x8",
+      "name": "Dragon",
+      "width": 18,
+      "height": 18,
+      "squares": 194,
+      "colors": 15,
+      "tags": [
+        "pixel",
+        "monster",
+        "dragon",
+        "fantasy",
+        "creature"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/dragon-8x8",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/dragon-8x8",
+        "de": "https://www.squarecoloring.com/de/vorlage/drache",
+        "fr": "https://www.squarecoloring.com/fr/fiche/dragon"
+      }
+    },
+    {
+      "id": "equals-sign-smiley-face",
+      "name": "Equals Sign Smiley Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 5,
+      "tags": [
+        "face",
+        "yellow",
+        "smiley",
+        "math",
+        "symbol"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/equals-sign-smiley-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/equals-sign-smiley-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/smiley-mit-strichaugen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/smiley-aux-yeux-en-traits"
+      }
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "width": 24,
+      "height": 24,
+      "squares": 245,
+      "colors": 8,
+      "tags": [
+        "cute",
+        "fox"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fox",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fox",
+        "de": "https://www.squarecoloring.com/de/vorlage/fuchs",
+        "fr": "https://www.squarecoloring.com/fr/fiche/renard"
+      }
+    },
+    {
+      "id": "fresh-blueberries-and-leaves",
+      "name": "Fresh Blueberries and Leaves",
+      "width": 17,
+      "height": 17,
+      "squares": 147,
+      "colors": 6,
+      "tags": [
+        "food",
+        "fruit",
+        "leaves",
+        "berries",
+        "blueberries"
+      ],
+      "collections": [
+        "printables"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-blueberries-and-leaves",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-blueberries-and-leaves",
+        "de": "https://www.squarecoloring.com/de/vorlage/blaubeeren-mit-blaettern",
+        "fr": "https://www.squarecoloring.com/fr/fiche/myrtilles-et-feuilles"
+      }
+    },
+    {
+      "id": "fresh-broccoli-floret",
+      "name": "Fresh Broccoli Floret",
+      "width": 14,
+      "height": 14,
+      "squares": 112,
+      "colors": 7,
+      "tags": [
+        "food",
+        "vegetable",
+        "farming",
+        "broccoli"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-broccoli-floret",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-broccoli-floret",
+        "de": "https://www.squarecoloring.com/de/vorlage/brokkoliroeschen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/bouquet-de-brocoli"
+      }
+    },
+    {
+      "id": "fresh-carrot",
+      "name": "Fresh Carrot",
+      "width": 14,
+      "height": 14,
+      "squares": 76,
+      "colors": 11,
+      "tags": [
+        "food",
+        "vegetable",
+        "carrot",
+        "farming",
+        "produce"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-carrot",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-carrot",
+        "de": "https://www.squarecoloring.com/de/vorlage/frische-karotte",
+        "fr": "https://www.squarecoloring.com/fr/fiche/carotte-fraiche"
+      }
+    },
+    {
+      "id": "fresh-green-bean",
+      "name": "Fresh Green Bean",
+      "width": 12,
+      "height": 12,
+      "squares": 73,
+      "colors": 11,
+      "tags": [
+        "food",
+        "nature",
+        "green",
+        "vegetable",
+        "bean"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-green-bean",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-green-bean",
+        "de": "https://www.squarecoloring.com/de/vorlage/gruene-bohne",
+        "fr": "https://www.squarecoloring.com/fr/fiche/haricot-vert"
+      }
+    },
+    {
+      "id": "fresh-salmon-nigiri",
+      "name": "Fresh Salmon Nigiri",
+      "width": 14,
+      "height": 14,
+      "squares": 113,
+      "colors": 13,
+      "tags": [
+        "food",
+        "sushi",
+        "japanese",
+        "nigiri",
+        "salmon"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-salmon-nigiri",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-salmon-nigiri",
+        "de": "https://www.squarecoloring.com/de/vorlage/lachs-nigiri",
+        "fr": "https://www.squarecoloring.com/fr/fiche/nigiri-au-saumon"
+      }
+    },
+    {
+      "id": "fresh-yellow-lemon",
+      "name": "Fresh Yellow Lemon",
+      "width": 14,
+      "height": 14,
+      "squares": 96,
+      "colors": 8,
+      "tags": [
+        "food",
+        "fruit",
+        "icon",
+        "citrus",
+        "lemon"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-yellow-lemon",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-yellow-lemon",
+        "de": "https://www.squarecoloring.com/de/vorlage/gelbe-zitrone",
+        "fr": "https://www.squarecoloring.com/fr/fiche/citron-jaune"
+      }
+    },
+    {
+      "id": "fresh-yellow-lemon-2984",
+      "name": "Fresh Yellow Lemon",
+      "width": 10,
+      "height": 10,
+      "squares": 59,
+      "colors": 5,
+      "tags": [
+        "food",
+        "fruit",
+        "icon",
+        "citrus",
+        "lemon"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/fresh-yellow-lemon-2984",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/fresh-yellow-lemon-2984",
+        "de": "https://www.squarecoloring.com/de/vorlage/gelbe-zitrone-10x10",
+        "fr": "https://www.squarecoloring.com/fr/fiche/citron-jaune-10x10"
+      }
+    },
+    {
+      "id": "frustrated-emoji-with-sweat-drop",
+      "name": "Frustrated Emoji with Sweat Drop",
+      "width": 13,
+      "height": 14,
+      "squares": 141,
+      "colors": 11,
+      "tags": [
+        "emoji",
+        "yellow",
+        "frustrated",
+        "sweat",
+        "frown"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/frustrated-emoji-with-sweat-drop",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/frustrated-emoji-with-sweat-drop",
+        "de": "https://www.squarecoloring.com/de/vorlage/genervtes-gesicht-mit-schweisstropfen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/emoji-agace-avec-goutte"
+      }
+    },
+    {
+      "id": "game-controller-3064",
+      "name": "Game Controller",
+      "width": 14,
+      "height": 14,
+      "squares": 118,
+      "colors": 8,
+      "tags": [
+        "joystick",
+        "controller",
+        "gamepad",
+        "videogame"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/game-controller-3064",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/game-controller-3064",
+        "de": "https://www.squarecoloring.com/de/vorlage/spielcontroller",
+        "fr": "https://www.squarecoloring.com/fr/fiche/manette-de-jeu"
+      }
+    },
+    {
+      "id": "glam-rocker-portrait",
+      "name": "Glam Rocker Portrait",
+      "width": 21,
+      "height": 21,
+      "squares": 209,
+      "colors": 14,
+      "tags": [
+        "character",
+        "portrait",
+        "music",
+        "rocker"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/glam-rocker-portrait",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/glam-rocker-portrait",
+        "de": "https://www.squarecoloring.com/de/vorlage/rockstar-im-portraet",
+        "fr": "https://www.squarecoloring.com/fr/fiche/portrait-de-rockeur"
+      }
+    },
+    {
+      "id": "golden-coin",
+      "name": "Golden Coin",
+      "width": 8,
+      "height": 8,
+      "squares": 52,
+      "colors": 10,
+      "tags": [
+        "coin",
+        "gold",
+        "item",
+        "treasure",
+        "money"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/golden-coin",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/golden-coin",
+        "de": "https://www.squarecoloring.com/de/vorlage/goldmuenze",
+        "fr": "https://www.squarecoloring.com/fr/fiche/piece-dor"
+      }
+    },
+    {
+      "id": "grimacing-face",
+      "name": "Grimacing Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 5,
+      "tags": [],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/grimacing-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/grimacing-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/grinsendes-gesicht-mit-zaehnen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-grimacant"
+      }
+    },
+    {
+      "id": "halo-emoji-face",
+      "name": "Halo Emoji Face",
+      "width": 13,
+      "height": 13,
+      "squares": 151,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "smiley",
+        "halo"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/halo-emoji-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/halo-emoji-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/gesicht-mit-heiligenschein",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-avec-aureole"
+      }
+    },
+    {
+      "id": "heart-eyes-emoji",
+      "name": "Heart Eyes Emoji",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "smile",
+        "heart"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/heart-eyes-emoji",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/heart-eyes-emoji",
+        "de": "https://www.squarecoloring.com/de/vorlage/gesicht-mit-herzaugen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-aux-yeux-en-coeur"
+      }
+    },
+    {
+      "id": "hooded-figure",
+      "name": "Hooded Figure",
+      "width": 14,
+      "height": 16,
+      "squares": 164,
+      "colors": 11,
+      "tags": [
+        "red",
+        "character",
+        "cloak",
+        "hood",
+        "warrior"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/hooded-figure",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/hooded-figure",
+        "de": "https://www.squarecoloring.com/de/vorlage/gestalt-mit-kapuze",
+        "fr": "https://www.squarecoloring.com/fr/fiche/silhouette-a-capuche"
+      }
+    },
+    {
+      "id": "ice-cream-cone-with-a-cherry",
+      "name": "Ice Cream Cone with a Cherry",
+      "width": 13,
+      "height": 13,
+      "squares": 97,
+      "colors": 10,
+      "tags": [
+        "food",
+        "cherry",
+        "sweet",
+        "dessert",
+        "ice-cream"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/ice-cream-cone-with-a-cherry",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/ice-cream-cone-with-a-cherry",
+        "de": "https://www.squarecoloring.com/de/vorlage/eistuete-mit-kirsche",
+        "fr": "https://www.squarecoloring.com/fr/fiche/cornet-de-glace-a-la-cerise"
+      }
+    },
+    {
+      "id": "jack-o-lantern-kid",
+      "name": "Jack-o'-Lantern Kid",
+      "width": 16,
+      "height": 16,
+      "squares": 165,
+      "colors": 9,
+      "tags": [
+        "character",
+        "pumpkin",
+        "halloween",
+        "avatar"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/jack-o-lantern-kid",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/jack-o-lantern-kid",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-kuerbiskopf",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petite-tete-de-citrouille"
+      }
+    },
+    {
+      "id": "laughing-so-hard-im-crying-face",
+      "name": "Laughing So Hard I'm Crying Face",
+      "width": 13,
+      "height": 13,
+      "squares": 135,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "crying",
+        "laughing"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/laughing-so-hard-im-crying-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/laughing-so-hard-im-crying-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/traenen-lachendes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-qui-pleure-de-rire"
+      }
+    },
+    {
+      "id": "little-blue-potion",
+      "name": "Little Blue Potion",
+      "width": 8,
+      "height": 8,
+      "squares": 46,
+      "colors": 9,
+      "tags": [
+        "blue",
+        "item",
+        "bottle",
+        "potion",
+        "flask"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-blue-potion",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-blue-potion",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-blauer-trank",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petite-potion-bleue"
+      }
+    },
+    {
+      "id": "little-brown-owl",
+      "name": "Little Brown Owl",
+      "width": 15,
+      "height": 15,
+      "squares": 147,
+      "colors": 15,
+      "tags": [
+        "bird",
+        "forest",
+        "brown",
+        "animal",
+        "owl"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-brown-owl",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-brown-owl",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleine-braune-eule",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petite-chouette-brune"
+      }
+    },
+    {
+      "id": "little-frankenstein-monster",
+      "name": "Little Frankenstein Monster",
+      "width": 16,
+      "height": 16,
+      "squares": 164,
+      "colors": 7,
+      "tags": [
+        "monster",
+        "character",
+        "halloween",
+        "undead",
+        "frankenstein"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-frankenstein-monster",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-frankenstein-monster",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleines-frankenstein-monster",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-monstre-de-frankenstein"
+      }
+    },
+    {
+      "id": "little-gray-forest-spirit",
+      "name": "Little Gray Forest Spirit",
+      "width": 16,
+      "height": 24,
+      "squares": 170,
+      "colors": 5,
+      "tags": [
+        "character",
+        "gray",
+        "leaf",
+        "spirit"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-gray-forest-spirit",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-gray-forest-spirit",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-grauer-waldgeist",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-esprit-gris-de-la-foret"
+      }
+    },
+    {
+      "id": "little-green-parrot",
+      "name": "Little Green Parrot",
+      "width": 15,
+      "height": 15,
+      "squares": 90,
+      "colors": 12,
+      "tags": [
+        "bird",
+        "animal",
+        "green",
+        "parrot",
+        "jungle"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-green-parrot",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-green-parrot",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-gruener-papagei",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-perroquet-vert"
+      }
+    },
+    {
+      "id": "little-pink-shell-creature",
+      "name": "Little Pink Shell Creature",
+      "width": 16,
+      "height": 16,
+      "squares": 116,
+      "colors": 9,
+      "tags": [
+        "creature",
+        "pink",
+        "shell",
+        "purple"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-pink-shell-creature",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-pink-shell-creature",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleines-rosa-muschelwesen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petite-creature-coquillage-rose"
+      }
+    },
+    {
+      "id": "little-red-crab",
+      "name": "Little Red Crab",
+      "width": 18,
+      "height": 18,
+      "squares": 136,
+      "colors": 6,
+      "tags": [
+        "red",
+        "animal",
+        "ocean",
+        "marine",
+        "crab"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-red-crab",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-red-crab",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleine-rote-krabbe",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-crabe-rouge"
+      }
+    },
+    {
+      "id": "little-squirrel",
+      "name": "Little Squirrel",
+      "width": 24,
+      "height": 24,
+      "squares": 156,
+      "colors": 10,
+      "tags": [
+        "forest",
+        "animal",
+        "woodland",
+        "squirrel",
+        "platformer"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-squirrel",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-squirrel",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleines-eichhoernchen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-ecureuil"
+      }
+    },
+    {
+      "id": "little-tan-dog",
+      "name": "Little Tan Dog with White Chest",
+      "width": 24,
+      "height": 24,
+      "squares": 287,
+      "colors": 5,
+      "tags": [
+        "dog",
+        "puppy",
+        "animal",
+        "tan"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-tan-dog",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-tan-dog",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-brauner-hund",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-chien-beige"
+      }
+    },
+    {
+      "id": "little-viking-character",
+      "name": "Little Viking Character",
+      "width": 16,
+      "height": 19,
+      "squares": 211,
+      "colors": 9,
+      "tags": [
+        "character",
+        "avatar",
+        "helmet",
+        "viking"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-viking-character",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-viking-character",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-wikinger",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-viking"
+      }
+    },
+    {
+      "id": "little-white-sheep",
+      "name": "Little White Sheep",
+      "width": 23,
+      "height": 23,
+      "squares": 286,
+      "colors": 15,
+      "tags": [
+        "cute",
+        "sheep",
+        "animal",
+        "farm"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/little-white-sheep",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/little-white-sheep",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleines-weisses-schaf",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-mouton-blanc"
+      }
+    },
+    {
+      "id": "mammoth",
+      "name": "Mammoth",
+      "width": 16,
+      "height": 16,
+      "squares": 193,
+      "colors": 10,
+      "tags": [
+        "animal",
+        "mammoth",
+        "prehistoric",
+        "elephant"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/mammoth",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/mammoth",
+        "de": "https://www.squarecoloring.com/de/vorlage/mammut",
+        "fr": "https://www.squarecoloring.com/fr/fiche/mammouth"
+      }
+    },
+    {
+      "id": "microwave",
+      "name": "Microwave",
+      "width": 21,
+      "height": 21,
+      "squares": 309,
+      "colors": 8,
+      "tags": [
+        "brown",
+        "kitchen",
+        "appliance",
+        "microwave"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/microwave",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/microwave",
+        "de": "https://www.squarecoloring.com/de/vorlage/mikrowelle",
+        "fr": "https://www.squarecoloring.com/fr/fiche/four-a-micro-ondes"
+      }
+    },
+    {
+      "id": "middle-aged-man-in-suspenders",
+      "name": "Middle-Aged Man in Suspenders",
+      "width": 21,
+      "height": 21,
+      "squares": 193,
+      "colors": 11,
+      "tags": [
+        "character",
+        "man",
+        "bartender",
+        "suspenders"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/middle-aged-man-in-suspenders",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/middle-aged-man-in-suspenders",
+        "de": "https://www.squarecoloring.com/de/vorlage/mann-mit-hosentraegern",
+        "fr": "https://www.squarecoloring.com/fr/fiche/homme-a-bretelles"
+      }
+    },
+    {
+      "id": "moose-in-profile",
+      "name": "Moose in Profile",
+      "width": 16,
+      "height": 16,
+      "squares": 169,
+      "colors": 9,
+      "tags": [
+        "game-asset",
+        "animal",
+        "wildlife",
+        "moose"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/moose-in-profile",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/moose-in-profile",
+        "de": "https://www.squarecoloring.com/de/vorlage/elch-im-profil",
+        "fr": "https://www.squarecoloring.com/fr/fiche/elan-de-profil"
+      }
+    },
+    {
+      "id": "morning-tea-cup",
+      "name": "Morning Tea Cup",
+      "width": 14,
+      "height": 14,
+      "squares": 149,
+      "colors": 11,
+      "tags": [
+        "cup",
+        "drink",
+        "mug",
+        "breakfast",
+        "tea"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/morning-tea-cup",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/morning-tea-cup",
+        "de": "https://www.squarecoloring.com/de/vorlage/tasse-tee-am-morgen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/tasse-de-the-du-matin"
+      }
+    },
+    {
+      "id": "mushroom-creature-with-big-smile",
+      "name": "Mushroom Creature with Big Smile",
+      "width": 16,
+      "height": 16,
+      "squares": 170,
+      "colors": 16,
+      "tags": [
+        "mushroom",
+        "character",
+        "creature",
+        "smile"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/mushroom-creature-with-big-smile",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/mushroom-creature-with-big-smile",
+        "de": "https://www.squarecoloring.com/de/vorlage/pilzwesen-mit-breitem-laecheln",
+        "fr": "https://www.squarecoloring.com/fr/fiche/champignon-au-grand-sourire"
+      }
+    },
+    {
+      "id": "nervous-yellow-face",
+      "name": "Nervous Yellow Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 4,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "expression",
+        "nervous"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/nervous-yellow-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/nervous-yellow-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/nervoeses-gelbes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-jaune-inquiet"
+      }
+    },
+    {
+      "id": "orange-circle-face",
+      "name": "Orange Circle Face",
+      "width": 16,
+      "height": 16,
+      "squares": 149,
+      "colors": 13,
+      "tags": [
+        "face",
+        "eyes",
+        "round",
+        "circle",
+        "orange"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/orange-circle-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/orange-circle-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/oranges-rundes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-rond-orange"
+      }
+    },
+    {
+      "id": "penguim",
+      "name": "Chubby Little Penguin",
+      "width": 15,
+      "height": 15,
+      "squares": 98,
+      "colors": 4,
+      "tags": [
+        "bird",
+        "penguin",
+        "animal",
+        "chubby"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/penguim",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/penguim",
+        "de": "https://www.squarecoloring.com/de/vorlage/pummeliger-kleiner-pinguin-15x15",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-pingouin-tout-rond-15x15"
+      }
+    },
+    {
+      "id": "pigeon",
+      "name": "Pigeon",
+      "width": 16,
+      "height": 16,
+      "squares": 66,
+      "colors": 12,
+      "tags": [
+        "bird",
+        "animal",
+        "sprite",
+        "pigeon"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pigeon",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pigeon",
+        "de": "https://www.squarecoloring.com/de/vorlage/taube",
+        "fr": "https://www.squarecoloring.com/fr/fiche/pigeon"
+      }
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "width": 15,
+      "height": 15,
+      "squares": 103,
+      "colors": 7,
+      "tags": [
+        "food",
+        "fruit",
+        "yellow",
+        "tropical",
+        "pineapple"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pineapple",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pineapple",
+        "de": "https://www.squarecoloring.com/de/vorlage/ananas",
+        "fr": "https://www.squarecoloring.com/fr/fiche/ananas"
+      }
+    },
+    {
+      "id": "pink-haired-adventurer",
+      "name": "Pink-Haired Adventurer",
+      "width": 21,
+      "height": 21,
+      "squares": 215,
+      "colors": 13,
+      "tags": [
+        "character",
+        "game-asset",
+        "scarf",
+        "pink-hair"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pink-haired-adventurer",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pink-haired-adventurer",
+        "de": "https://www.squarecoloring.com/de/vorlage/abenteurerin-mit-rosa-haaren",
+        "fr": "https://www.squarecoloring.com/fr/fiche/aventuriere-aux-cheveux-roses"
+      }
+    },
+    {
+      "id": "pink-rose-bud",
+      "name": "Pink Rose Bud",
+      "width": 14,
+      "height": 14,
+      "squares": 84,
+      "colors": 11,
+      "tags": [
+        "flower",
+        "nature",
+        "plant",
+        "bud",
+        "rose"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pink-rose-bud",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pink-rose-bud",
+        "de": "https://www.squarecoloring.com/de/vorlage/rosa-rosenknospe",
+        "fr": "https://www.squarecoloring.com/fr/fiche/bouton-de-rose-rose"
+      }
+    },
+    {
+      "id": "pixel-love-face-903",
+      "name": "Pixel Love Face",
+      "width": 12,
+      "height": 12,
+      "squares": 100,
+      "colors": 8,
+      "tags": [
+        "emoji",
+        "face",
+        "love"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pixel-love-face-903",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pixel-love-face-903",
+        "de": "https://www.squarecoloring.com/de/vorlage/verliebtes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-amoureux"
+      }
+    },
+    {
+      "id": "pixel-smiley-face",
+      "name": "Pixel Smiley Face",
+      "width": 12,
+      "height": 12,
+      "squares": 100,
+      "colors": 6,
+      "tags": [
+        "emoji"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pixel-smiley-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pixel-smiley-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/lachendes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-souriant"
+      }
+    },
+    {
+      "id": "pixel-surprised-face",
+      "name": "Pixel Surprised Face",
+      "width": 12,
+      "height": 12,
+      "squares": 100,
+      "colors": 7,
+      "tags": [
+        "emoji",
+        "face",
+        "surprised"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pixel-surprised-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pixel-surprised-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/ueberraschtes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-surpris"
+      }
+    },
+    {
+      "id": "pumpkin-head-character",
+      "name": "Pumpkin Head Character",
+      "width": 16,
+      "height": 16,
+      "squares": 165,
+      "colors": 7,
+      "tags": [
+        "character",
+        "pumpkin",
+        "halloween",
+        "farmer",
+        "autumn"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/pumpkin-head-character",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/pumpkin-head-character",
+        "de": "https://www.squarecoloring.com/de/vorlage/figur-mit-kuerbiskopf",
+        "fr": "https://www.squarecoloring.com/fr/fiche/personnage-a-tete-de-citrouille"
+      }
+    },
+    {
+      "id": "punk-guy",
+      "name": "Punk Guy",
+      "width": 21,
+      "height": 21,
+      "squares": 189,
+      "colors": 11,
+      "tags": [
+        "character",
+        "platformer",
+        "guy",
+        "mohawk",
+        "punk"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/punk-guy",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/punk-guy",
+        "de": "https://www.squarecoloring.com/de/vorlage/punk-mit-irokesenschnitt",
+        "fr": "https://www.squarecoloring.com/fr/fiche/punk-a-crete"
+      }
+    },
+    {
+      "id": "purple-candy-wrapper",
+      "name": "Purple Candy Wrapper",
+      "width": 13,
+      "height": 13,
+      "squares": 72,
+      "colors": 5,
+      "tags": [
+        "food",
+        "candy",
+        "item",
+        "purple",
+        "sweet"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/purple-candy-wrapper",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/purple-candy-wrapper",
+        "de": "https://www.squarecoloring.com/de/vorlage/lila-bonbon",
+        "fr": "https://www.squarecoloring.com/fr/fiche/bonbon-violet"
+      }
+    },
+    {
+      "id": "purple-grapes",
+      "name": "Purple grapes",
+      "width": 13,
+      "height": 12,
+      "squares": 92,
+      "colors": 13,
+      "tags": [
+        "food",
+        "fruit",
+        "item",
+        "grapes"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/purple-grapes",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/purple-grapes",
+        "de": "https://www.squarecoloring.com/de/vorlage/lila-weintrauben",
+        "fr": "https://www.squarecoloring.com/fr/fiche/raisins-violets"
+      }
+    },
+    {
+      "id": "purple-mummy",
+      "name": "Purple Mummy",
+      "width": 16,
+      "height": 16,
+      "squares": 150,
+      "colors": 5,
+      "tags": [
+        "monster",
+        "character",
+        "halloween",
+        "mummy",
+        "undead"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/purple-mummy",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/purple-mummy",
+        "de": "https://www.squarecoloring.com/de/vorlage/lila-mumie",
+        "fr": "https://www.squarecoloring.com/fr/fiche/momie-violette"
+      }
+    },
+    {
+      "id": "ripe-yellow-banana",
+      "name": "Ripe Yellow Banana",
+      "width": 13,
+      "height": 13,
+      "squares": 86,
+      "colors": 9,
+      "tags": [
+        "food",
+        "fruit",
+        "banana",
+        "yellow"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/ripe-yellow-banana",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/ripe-yellow-banana",
+        "de": "https://www.squarecoloring.com/de/vorlage/reife-gelbe-banane",
+        "fr": "https://www.squarecoloring.com/fr/fiche/banane-jaune-mure"
+      }
+    },
+    {
+      "id": "roasted-chicken-drumstick",
+      "name": "Roasted Chicken Drumstick",
+      "width": 12,
+      "height": 12,
+      "squares": 79,
+      "colors": 8,
+      "tags": [
+        "food",
+        "game",
+        "chicken",
+        "meat",
+        "drumstick"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/roasted-chicken-drumstick",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/roasted-chicken-drumstick",
+        "de": "https://www.squarecoloring.com/de/vorlage/haehnchenkeule",
+        "fr": "https://www.squarecoloring.com/fr/fiche/pilon-de-poulet-roti"
+      }
+    },
+    {
+      "id": "screenshot-2026-09-22-at-162316",
+      "name": "Gray Elephant",
+      "width": 16,
+      "height": 16,
+      "squares": 179,
+      "colors": 5,
+      "tags": [
+        "animal",
+        "gray",
+        "elephant",
+        "safari"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/screenshot-2026-09-22-at-162316",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/screenshot-2026-09-22-at-162316",
+        "de": "https://www.squarecoloring.com/de/vorlage/grauer-elefant",
+        "fr": "https://www.squarecoloring.com/fr/fiche/elephant-gris"
+      }
+    },
+    {
+      "id": "silly-face-with-tongue-out",
+      "name": "Silly Face with Tongue Out",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 7,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "smiley",
+        "tongue"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/silly-face-with-tongue-out",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/silly-face-with-tongue-out",
+        "de": "https://www.squarecoloring.com/de/vorlage/gesicht-mit-herausgestreckter-zunge",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-qui-tire-la-langue"
+      }
+    },
+    {
+      "id": "silly-winking-face",
+      "name": "Silly Winking Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 7,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "wink",
+        "tongue"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/silly-winking-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/silly-winking-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/albernes-zwinkerndes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-farceur-qui-cligne"
+      }
+    },
+    {
+      "id": "sleepy-yellow-face",
+      "name": "Sleepy Yellow Face",
+      "width": 13,
+      "height": 13,
+      "squares": 139,
+      "colors": 7,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "sleeping"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sleepy-yellow-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sleepy-yellow-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/muedes-gelbes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-jaune-endormi"
+      }
+    },
+    {
+      "id": "slice-of-pepperoni-pizza",
+      "name": "Slice of Pepperoni Pizza",
+      "width": 14,
+      "height": 14,
+      "squares": 117,
+      "colors": 13,
+      "tags": [
+        "food",
+        "cheese",
+        "slice",
+        "pepperoni",
+        "pizza"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/slice-of-pepperoni-pizza",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/slice-of-pepperoni-pizza",
+        "de": "https://www.squarecoloring.com/de/vorlage/stueck-salamipizza",
+        "fr": "https://www.squarecoloring.com/fr/fiche/part-de-pizza-au-pepperoni"
+      }
+    },
+    {
+      "id": "small-pink-potion",
+      "name": "Small Pink Potion",
+      "width": 8,
+      "height": 8,
+      "squares": 40,
+      "colors": 9,
+      "tags": [
+        "item",
+        "pink",
+        "bottle",
+        "potion",
+        "magic"
+      ],
+      "collections": [
+        "printables",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/small-pink-potion",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/small-pink-potion",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-rosa-trank",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petite-potion-rose"
+      }
+    },
+    {
+      "id": "small-potion",
+      "name": "Small Potion",
+      "width": 8,
+      "height": 8,
+      "squares": 46,
+      "colors": 14,
+      "tags": [
+        "red",
+        "game",
+        "item",
+        "bottle",
+        "potion"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/small-potion",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/small-potion",
+        "de": "https://www.squarecoloring.com/de/vorlage/kleiner-zaubertrank",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petite-potion"
+      }
+    },
+    {
+      "id": "smiling-poo",
+      "name": "Smiling Poo",
+      "width": 19,
+      "height": 17,
+      "squares": 201,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "icon",
+        "funny",
+        "smiley",
+        "poo"
+      ],
+      "collections": [
+        "printables",
+        "for-adults"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/smiling-poo",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/smiling-poo",
+        "de": "https://www.squarecoloring.com/de/vorlage/laechelnder-kackhaufen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/petit-tas-souriant"
+      }
+    },
+    {
+      "id": "smiling-poop-emoji",
+      "name": "Smiling Poop Emoji",
+      "width": 13,
+      "height": 13,
+      "squares": 109,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "icon",
+        "funny",
+        "smile",
+        "poop"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/smiling-poop-emoji",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/smiling-poop-emoji",
+        "de": "https://www.squarecoloring.com/de/vorlage/kackhaufen-emoji",
+        "fr": "https://www.squarecoloring.com/fr/fiche/emoji-petit-tas-souriant"
+      }
+    },
+    {
+      "id": "smirking-yellow-face",
+      "name": "Smirking Yellow Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 6,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "smile",
+        "smiley"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/smirking-yellow-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/smirking-yellow-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/schmunzelndes-gelbes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-jaune-narquois"
+      }
+    },
+    {
+      "id": "spiky-golden-sunflower",
+      "name": "Spiky golden sunflower",
+      "width": 14,
+      "height": 13,
+      "squares": 108,
+      "colors": 12,
+      "tags": [
+        "flower",
+        "yellow",
+        "nature",
+        "sunflower",
+        "seed"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/spiky-golden-sunflower",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/spiky-golden-sunflower",
+        "de": "https://www.squarecoloring.com/de/vorlage/goldene-sonnenblume",
+        "fr": "https://www.squarecoloring.com/fr/fiche/tournesol-dore"
+      }
+    },
+    {
+      "id": "strawberry-tart",
+      "name": "Strawberry Tart",
+      "width": 14,
+      "height": 14,
+      "squares": 119,
+      "colors": 16,
+      "tags": [
+        "food",
+        "cherry",
+        "dessert",
+        "cake",
+        "pastry"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/strawberry-tart",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/strawberry-tart",
+        "de": "https://www.squarecoloring.com/de/vorlage/erdbeertoertchen",
+        "fr": "https://www.squarecoloring.com/fr/fiche/tartelette-aux-fraises"
+      }
+    },
+    {
+      "id": "sturdy-ox",
+      "name": "Sturdy Ox",
+      "width": 16,
+      "height": 16,
+      "squares": 156,
+      "colors": 9,
+      "tags": [
+        "animal",
+        "mammal",
+        "farm",
+        "ox",
+        "bovidae"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sturdy-ox",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sturdy-ox",
+        "de": "https://www.squarecoloring.com/de/vorlage/kraeftiger-ochse",
+        "fr": "https://www.squarecoloring.com/fr/fiche/boeuf-robuste"
+      }
+    },
+    {
+      "id": "sunflower",
+      "name": "Sunflower",
+      "width": 13,
+      "height": 12,
+      "squares": 104,
+      "colors": 16,
+      "tags": [
+        "flower",
+        "yellow",
+        "nature",
+        "plant",
+        "sunflower"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sunflower",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sunflower",
+        "de": "https://www.squarecoloring.com/de/vorlage/sonnenblume",
+        "fr": "https://www.squarecoloring.com/fr/fiche/tournesol"
+      }
+    },
+    {
+      "id": "sunglasses-smirk-emoji",
+      "name": "Sunglasses Smirk Emoji",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 5,
+      "tags": [
+        "emoji",
+        "face",
+        "sunglasses",
+        "yellow",
+        "smirk"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sunglasses-smirk-emoji",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sunglasses-smirk-emoji",
+        "de": "https://www.squarecoloring.com/de/vorlage/emoji-mit-sonnenbrille",
+        "fr": "https://www.squarecoloring.com/fr/fiche/emoji-a-lunettes-de-soleil"
+      }
+    },
+    {
+      "id": "sunny-side-up",
+      "name": "Sunny Side Up",
+      "width": 14,
+      "height": 14,
+      "squares": 136,
+      "colors": 5,
+      "tags": [
+        "food",
+        "egg",
+        "breakfast",
+        "fried"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sunny-side-up",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sunny-side-up",
+        "de": "https://www.squarecoloring.com/de/vorlage/spiegelei",
+        "fr": "https://www.squarecoloring.com/fr/fiche/oeuf-au-plat"
+      }
+    },
+    {
+      "id": "sunny-side-up-egg",
+      "name": "Sunny Side Up Egg",
+      "width": 14,
+      "height": 14,
+      "squares": 140,
+      "colors": 7,
+      "tags": [
+        "food",
+        "egg",
+        "breakfast",
+        "cooking"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sunny-side-up-egg",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sunny-side-up-egg",
+        "de": "https://www.squarecoloring.com/de/vorlage/spiegelei-auf-dem-teller",
+        "fr": "https://www.squarecoloring.com/fr/fiche/oeuf-au-plat-dans-lassiette"
+      }
+    },
+    {
+      "id": "surprised-emoji",
+      "name": "Surprised Emoji",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 4,
+      "tags": [
+        "emoji",
+        "face",
+        "surprised",
+        "yellow",
+        "shocked"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/surprised-emoji",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/surprised-emoji",
+        "de": "https://www.squarecoloring.com/de/vorlage/ueberraschtes-emoji",
+        "fr": "https://www.squarecoloring.com/fr/fiche/emoji-surpris"
+      }
+    },
+    {
+      "id": "surprised-yellow-bird",
+      "name": "Surprised Yellow Bird",
+      "width": 15,
+      "height": 14,
+      "squares": 162,
+      "colors": 7,
+      "tags": [
+        "character",
+        "bird",
+        "face",
+        "yellow",
+        "blue-hair"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/surprised-yellow-bird",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/surprised-yellow-bird",
+        "de": "https://www.squarecoloring.com/de/vorlage/ueberraschter-gelber-vogel",
+        "fr": "https://www.squarecoloring.com/fr/fiche/oiseau-jaune-surpris"
+      }
+    },
+    {
+      "id": "surprised-yellow-face",
+      "name": "Surprised Yellow Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 4,
+      "tags": [
+        "face",
+        "surprised",
+        "yellow",
+        "expression"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/surprised-yellow-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/surprised-yellow-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/ueberraschtes-gelbes-gesicht",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-jaune-surpris"
+      }
+    },
+    {
+      "id": "sushi",
+      "name": "Sushi",
+      "width": 15,
+      "height": 15,
+      "squares": 167,
+      "colors": 15,
+      "tags": [
+        "food",
+        "sushi"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/sushi",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/sushi",
+        "de": "https://www.squarecoloring.com/de/vorlage/sushi",
+        "fr": "https://www.squarecoloring.com/fr/fiche/sushi"
+      }
+    },
+    {
+      "id": "tree",
+      "name": "Tree",
+      "width": 16,
+      "height": 16,
+      "squares": 156,
+      "colors": 15,
+      "tags": [
+        "mini",
+        "tree"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/tree",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/tree",
+        "de": "https://www.squarecoloring.com/de/vorlage/baum",
+        "fr": "https://www.squarecoloring.com/fr/fiche/arbre"
+      }
+    },
+    {
+      "id": "turnip",
+      "name": "Turnip",
+      "width": 13,
+      "height": 13,
+      "squares": 105,
+      "colors": 15,
+      "tags": [
+        "food",
+        "vegetable",
+        "farming",
+        "turnip",
+        "crop"
+      ],
+      "collections": [
+        "printables",
+        "for-adults",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/turnip",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/turnip",
+        "de": "https://www.squarecoloring.com/de/vorlage/weisse-ruebe",
+        "fr": "https://www.squarecoloring.com/fr/fiche/navet"
+      }
+    },
+    {
+      "id": "wedge-of-cheese",
+      "name": "Wedge of Cheese",
+      "width": 13,
+      "height": 13,
+      "squares": 104,
+      "colors": 6,
+      "tags": [
+        "food",
+        "cheese",
+        "item",
+        "wedge",
+        "dairy"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/wedge-of-cheese",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/wedge-of-cheese",
+        "de": "https://www.squarecoloring.com/de/vorlage/stueck-kaese",
+        "fr": "https://www.squarecoloring.com/fr/fiche/morceau-de-fromage"
+      }
+    },
+    {
+      "id": "white-rooster",
+      "name": "White Rooster",
+      "width": 16,
+      "height": 16,
+      "squares": 153,
+      "colors": 9,
+      "tags": [
+        "bird",
+        "chicken",
+        "farm",
+        "rooster"
+      ],
+      "collections": [
+        "printables",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/white-rooster",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/white-rooster",
+        "de": "https://www.squarecoloring.com/de/vorlage/weisser-hahn",
+        "fr": "https://www.squarecoloring.com/fr/fiche/coq-blanc"
+      }
+    },
+    {
+      "id": "wink-kiss-face",
+      "name": "Wink Kiss Face",
+      "width": 14,
+      "height": 13,
+      "squares": 152,
+      "colors": 5,
+      "tags": [
+        "emoji",
+        "face",
+        "yellow",
+        "wink",
+        "kiss"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/wink-kiss-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/wink-kiss-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/kussmund-mit-zwinkern",
+        "fr": "https://www.squarecoloring.com/fr/fiche/visage-qui-envoie-un-bisou"
+      }
+    },
+    {
+      "id": "winking-smiley-face",
+      "name": "Winking Smiley Face",
+      "width": 13,
+      "height": 13,
+      "squares": 137,
+      "colors": 4,
+      "tags": [
+        "face",
+        "yellow",
+        "wink",
+        "smiley"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/winking-smiley-face",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/winking-smiley-face",
+        "de": "https://www.squarecoloring.com/de/vorlage/zwinkernder-smiley",
+        "fr": "https://www.squarecoloring.com/fr/fiche/smiley-qui-cligne-de-loeil"
+      }
+    },
+    {
+      "id": "wolf-character-in-red-jacket",
+      "name": "Wolf Character in Red Jacket",
+      "width": 16,
+      "height": 16,
+      "squares": 144,
+      "colors": 7,
+      "tags": [
+        "character",
+        "animal",
+        "wolf",
+        "jacket"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "animals",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/wolf-character-in-red-jacket",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/wolf-character-in-red-jacket",
+        "de": "https://www.squarecoloring.com/de/vorlage/wolf-in-roter-jacke",
+        "fr": "https://www.squarecoloring.com/fr/fiche/loup-en-veste-rouge"
+      }
+    },
+    {
+      "id": "wrapped-mummy",
+      "name": "Wrapped Mummy",
+      "width": 16,
+      "height": 16,
+      "squares": 150,
+      "colors": 4,
+      "tags": [
+        "character",
+        "halloween",
+        "monsters",
+        "mummy",
+        "undead"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/wrapped-mummy",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/wrapped-mummy",
+        "de": "https://www.squarecoloring.com/de/vorlage/eingewickelte-mumie",
+        "fr": "https://www.squarecoloring.com/fr/fiche/momie-enveloppee"
+      }
+    },
+    {
+      "id": "yellow-mug",
+      "name": "Yellow Mug",
+      "width": 13,
+      "height": 13,
+      "squares": 117,
+      "colors": 7,
+      "tags": [
+        "cup",
+        "drink",
+        "coffee",
+        "yellow",
+        "mug"
+      ],
+      "collections": [
+        "printables",
+        "for-kids",
+        "pixel-art"
+      ],
+      "squarecoloring": "https://www.squarecoloring.com/page/yellow-mug",
+      "urls": {
+        "en": "https://www.squarecoloring.com/page/yellow-mug",
+        "de": "https://www.squarecoloring.com/de/vorlage/gelbe-tasse",
+        "fr": "https://www.squarecoloring.com/fr/fiche/mug-jaune"
+      }
+    }
+  ]
+}

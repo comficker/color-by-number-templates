@@ -1,0 +1,31 @@
+# Licence for the templates in `data/`
+
+The colour-by-number templates in this package — the grids, the colour keys and the metadata that
+describes them — are licensed under the **Creative Commons Attribution 4.0 International Licence
+(CC BY 4.0)**.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:   https://creativecommons.org/licenses/by/4.0/
+
+## You may
+
+Share and adapt them for any purpose, including commercially: print them, put them in an app or a book,
+turn them into cross-stitch or bead charts, train on them, resell what you build from them.
+
+## You must give credit
+
+Keep a credit that names SquareColoring and links to it. Any of these does the job:
+
+> Colour-by-number templates by SquareColoring (https://www.squarecoloring.com)
+
+For a single template, each JSON file carries its own `credit` field, for example:
+
+> “Chubby Bumblebee” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/chubby-bumblebee
+
+In a printed work, the link may be written out as plain text. In software, an About or Credits screen is
+the usual place.
+
+## Who may license this
+
+Only the sheets drawn on SquareColoring's own team accounts are in this package. Sheets made by members
+of the site are not included — see [SOURCES.md](SOURCES.md).

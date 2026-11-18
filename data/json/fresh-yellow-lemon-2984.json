@@ -1,0 +1,178 @@
+{
+  "id": "fresh-yellow-lemon-2984",
+  "name": "Fresh Yellow Lemon",
+  "width": 10,
+  "height": 10,
+  "squares": 59,
+  "colors": 5,
+  "tags": [
+    "food",
+    "fruit",
+    "icon",
+    "citrus",
+    "lemon"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#19131C",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#55BF2D",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#F8BC08",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#F4FBFB",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#FF9D07",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      1,
+      1,
+      1,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      1,
+      0,
+      2,
+      2,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      2,
+      2,
+      3,
+      2,
+      4,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      4,
+      2,
+      2,
+      2,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      4,
+      4,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-22T11:34:02.258582Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/fresh-yellow-lemon-2984",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/fresh-yellow-lemon-2984",
+    "de": "https://www.squarecoloring.com/de/vorlage/gelbe-zitrone-10x10",
+    "fr": "https://www.squarecoloring.com/fr/fiche/citron-jaune-10x10"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Fresh Yellow Lemon” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/fresh-yellow-lemon-2984"
+}

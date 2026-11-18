@@ -1,0 +1,277 @@
+{
+  "id": "purple-grapes",
+  "name": "Purple grapes",
+  "width": 13,
+  "height": 12,
+  "squares": 92,
+  "colors": 13,
+  "tags": [
+    "food",
+    "fruit",
+    "item",
+    "grapes"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#080408",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#1A1C14",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#726A36",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#867926",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#665315",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#5B514F",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#504A01",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#655D6F",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#8C87AF",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#403B61",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#6F6594",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#2B254B",
+      "used": true
+    },
+    {
+      "number": 12,
+      "hex": "#5F5488",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      2,
+      2,
+      1,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      3,
+      3,
+      4,
+      5,
+      null,
+      0,
+      5,
+      5,
+      4,
+      4,
+      0
+    ],
+    [
+      null,
+      0,
+      4,
+      3,
+      0,
+      0,
+      0,
+      6,
+      2,
+      3,
+      3,
+      4,
+      0
+    ],
+    [
+      null,
+      0,
+      4,
+      0,
+      7,
+      8,
+      9,
+      0,
+      4,
+      4,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      10,
+      10,
+      10,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      9,
+      9,
+      10,
+      0,
+      9,
+      11,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      11,
+      9,
+      7,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      11,
+      5,
+      9,
+      0,
+      11,
+      9,
+      9,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      9,
+      12,
+      12,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      12,
+      9,
+      9,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-22T08:59:44.757367Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/purple-grapes",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/purple-grapes",
+    "de": "https://www.squarecoloring.com/de/vorlage/lila-weintrauben",
+    "fr": "https://www.squarecoloring.com/fr/fiche/raisins-violets"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Purple grapes” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/purple-grapes"
+}

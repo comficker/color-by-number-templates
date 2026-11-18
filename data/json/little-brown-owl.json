@@ -1,0 +1,364 @@
+{
+  "id": "little-brown-owl",
+  "name": "Little Brown Owl",
+  "width": 15,
+  "height": 15,
+  "squares": 147,
+  "colors": 15,
+  "tags": [
+    "bird",
+    "forest",
+    "brown",
+    "animal",
+    "owl"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "animals",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#060005",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#725D59",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#DAAB9A",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#CFAA73",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#7C513F",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#E9BD7D",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#FFE7CC",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#FBB66E",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#EAC6A4",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#8B654C",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#370E00",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#A66931",
+      "used": true
+    },
+    {
+      "number": 12,
+      "hex": "#FFF5EB",
+      "used": true
+    },
+    {
+      "number": 13,
+      "hex": "#1E191E",
+      "used": true
+    },
+    {
+      "number": 14,
+      "hex": "#372317",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      0,
+      4,
+      4,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      2,
+      1,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      5,
+      5,
+      6,
+      6,
+      3,
+      7,
+      5,
+      0,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      6,
+      0,
+      0,
+      6,
+      5,
+      7,
+      8,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      6,
+      0,
+      0,
+      6,
+      5,
+      7,
+      5,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      9,
+      2,
+      6,
+      6,
+      2,
+      5,
+      5,
+      5,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      10,
+      2,
+      5,
+      2,
+      5,
+      5,
+      11,
+      11,
+      1,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      2,
+      2,
+      5,
+      5,
+      5,
+      11,
+      4,
+      4,
+      4,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      12,
+      6,
+      5,
+      7,
+      5,
+      4,
+      1,
+      4,
+      4,
+      1,
+      0,
+      0
+    ],
+    [
+      null,
+      null,
+      0,
+      12,
+      12,
+      6,
+      5,
+      5,
+      10,
+      1,
+      4,
+      4,
+      1,
+      1,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      13,
+      12,
+      6,
+      5,
+      2,
+      2,
+      10,
+      4,
+      4,
+      1,
+      10,
+      1
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      14,
+      13,
+      0,
+      0,
+      13,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-22T10:10:50.960708Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/little-brown-owl",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/little-brown-owl",
+    "de": "https://www.squarecoloring.com/de/vorlage/kleine-braune-eule",
+    "fr": "https://www.squarecoloring.com/fr/fiche/petite-chouette-brune"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Little Brown Owl” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/little-brown-owl"
+}

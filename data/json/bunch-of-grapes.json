@@ -1,0 +1,201 @@
+{
+  "id": "bunch-of-grapes",
+  "name": "Bunch of Grapes",
+  "width": 11,
+  "height": 11,
+  "squares": 63,
+  "colors": 5,
+  "tags": [
+    "food",
+    "fruit",
+    "grapes",
+    "purple",
+    "stem"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#FEFEFE",
+      "used": false
+    },
+    {
+      "number": 1,
+      "hex": "#51401A",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#3E3A72",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#AE8BE7",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#6B52AE",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      1,
+      null,
+      1,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      null,
+      1,
+      null,
+      null,
+      null,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      1,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      2,
+      2,
+      3,
+      4,
+      2,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      2,
+      3,
+      4,
+      2,
+      4,
+      4,
+      2,
+      3,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2,
+      4,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      2,
+      2,
+      2,
+      3,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      3,
+      4,
+      2,
+      4,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      4,
+      4,
+      2,
+      2,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      2,
+      3,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      4,
+      4,
+      2,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-22T11:34:52.582713Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/bunch-of-grapes",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/bunch-of-grapes",
+    "de": "https://www.squarecoloring.com/de/vorlage/weintraube",
+    "fr": "https://www.squarecoloring.com/fr/fiche/grappe-de-raisin"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Bunch of Grapes” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/bunch-of-grapes"
+}

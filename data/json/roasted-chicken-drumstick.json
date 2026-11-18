@@ -1,0 +1,242 @@
+{
+  "id": "roasted-chicken-drumstick",
+  "name": "Roasted Chicken Drumstick",
+  "width": 12,
+  "height": 12,
+  "squares": 79,
+  "colors": 8,
+  "tags": [
+    "food",
+    "game",
+    "chicken",
+    "meat",
+    "drumstick"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "animals",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#EEE4CF",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#5E3337",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#B35C4A",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#CF683E",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#753A45",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#983C27",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#9DA8B0",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#C9D5CA",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      2,
+      3,
+      3,
+      2,
+      2,
+      1
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      4,
+      2,
+      3,
+      3,
+      3,
+      3,
+      5,
+      4
+    ],
+    [
+      null,
+      null,
+      null,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      5,
+      4
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      3,
+      3,
+      2,
+      3,
+      3,
+      5,
+      5,
+      4
+    ],
+    [
+      null,
+      null,
+      null,
+      4,
+      2,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      4
+    ],
+    [
+      null,
+      null,
+      null,
+      4,
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      4,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      4,
+      3,
+      5,
+      5,
+      5,
+      5,
+      4,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      6,
+      7,
+      4,
+      4,
+      4,
+      4,
+      4,
+      null,
+      null,
+      null
+    ],
+    [
+      6,
+      6,
+      7,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      6,
+      7,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      0,
+      6,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:03:45.894187Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/roasted-chicken-drumstick",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/roasted-chicken-drumstick",
+    "de": "https://www.squarecoloring.com/de/vorlage/haehnchenkeule",
+    "fr": "https://www.squarecoloring.com/fr/fiche/pilon-de-poulet-roti"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Roasted Chicken Drumstick” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/roasted-chicken-drumstick"
+}

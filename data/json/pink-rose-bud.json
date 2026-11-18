@@ -1,0 +1,311 @@
+{
+  "id": "pink-rose-bud",
+  "name": "Pink Rose Bud",
+  "width": 14,
+  "height": 14,
+  "squares": 84,
+  "colors": 11,
+  "tags": [
+    "flower",
+    "nature",
+    "plant",
+    "bud",
+    "rose"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#EB8584",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#976D6E",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#FBC8AF",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#AC9381",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#F0AC8E",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#9EACA6",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#C6DBD2",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#E4F0EE",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#568065",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#86A782",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#B5BE94",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      1,
+      1,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2,
+      2,
+      1,
+      3,
+      1,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2,
+      4,
+      3,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      5,
+      0,
+      2,
+      2,
+      4,
+      4,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      5,
+      6,
+      0,
+      4,
+      4,
+      4,
+      4,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      5,
+      7,
+      6,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      8,
+      5,
+      7,
+      7,
+      6,
+      6,
+      5,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      8,
+      9,
+      5,
+      6,
+      6,
+      6,
+      6,
+      5,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      8,
+      10,
+      9,
+      5,
+      5,
+      5,
+      5,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      8,
+      10,
+      10,
+      5,
+      9,
+      8,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      8,
+      9,
+      9,
+      9,
+      9,
+      8,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      3,
+      8,
+      8,
+      8,
+      8,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      3,
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:04:14.698307Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/pink-rose-bud",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/pink-rose-bud",
+    "de": "https://www.squarecoloring.com/de/vorlage/rosa-rosenknospe",
+    "fr": "https://www.squarecoloring.com/fr/fiche/bouton-de-rose-rose"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Pink Rose Bud” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/pink-rose-bud"
+}

@@ -1,0 +1,360 @@
+{
+  "id": "sushi",
+  "name": "Sushi",
+  "width": 15,
+  "height": 15,
+  "squares": 167,
+  "colors": 15,
+  "tags": [
+    "food",
+    "sushi"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#81726B",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#32393A",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#180300",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#CE6F0F",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#B77728",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#3D2E24",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#E98814",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#FF510C",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#C53A04",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#D09031",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#ED6902",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#FF7E00",
+      "used": true
+    },
+    {
+      "number": 12,
+      "hex": "#091213",
+      "used": true
+    },
+    {
+      "number": 13,
+      "hex": "#668075",
+      "used": true
+    },
+    {
+      "number": 14,
+      "hex": "#73718B",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      2,
+      2,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      2,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      6,
+      6,
+      6,
+      7,
+      7,
+      8,
+      8,
+      6,
+      6,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      2,
+      9,
+      7,
+      6,
+      10,
+      7,
+      8,
+      11,
+      7,
+      8,
+      7,
+      6,
+      12,
+      null
+    ],
+    [
+      null,
+      2,
+      11,
+      11,
+      8,
+      8,
+      8,
+      7,
+      7,
+      7,
+      7,
+      11,
+      7,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      6,
+      8,
+      6,
+      7,
+      7,
+      8,
+      7,
+      8,
+      8,
+      7,
+      7,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      0,
+      6,
+      7,
+      7,
+      7,
+      7,
+      8,
+      6,
+      7,
+      8,
+      0,
+      12,
+      null
+    ],
+    [
+      null,
+      2,
+      0,
+      1,
+      1,
+      4,
+      7,
+      7,
+      7,
+      10,
+      1,
+      1,
+      13,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      0,
+      1,
+      1,
+      5,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      14,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      2,
+      null
+    ],
+    [
+      null,
+      2,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      2,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      2,
+      2,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T05:02:35.557112Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/sushi",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/sushi",
+    "de": "https://www.squarecoloring.com/de/vorlage/sushi",
+    "fr": "https://www.squarecoloring.com/fr/fiche/sushi"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Sushi” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/sushi"
+}

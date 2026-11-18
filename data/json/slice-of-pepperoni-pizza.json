@@ -1,0 +1,322 @@
+{
+  "id": "slice-of-pepperoni-pizza",
+  "name": "Slice of Pepperoni Pizza",
+  "width": 14,
+  "height": 14,
+  "squares": 117,
+  "colors": 13,
+  "tags": [
+    "food",
+    "cheese",
+    "slice",
+    "pepperoni",
+    "pizza"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#B16456",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#F3A568",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#D58459",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#FBD0A7",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#F9C332",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#B9C771",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#DE433C",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#E6CC3D",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#ECC694",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#AD2224",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#2BB66B",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#49A56E",
+      "used": true
+    },
+    {
+      "number": 12,
+      "hex": "#CED391",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      1,
+      1,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2,
+      1,
+      1,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      3,
+      4,
+      2,
+      1,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      5,
+      6,
+      6,
+      3,
+      2,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      3,
+      7,
+      6,
+      null,
+      3,
+      2,
+      1,
+      1,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      6,
+      6,
+      3,
+      8,
+      8,
+      8,
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      null,
+      null,
+      0,
+      8,
+      6,
+      9,
+      3,
+      10,
+      8,
+      4,
+      5,
+      2,
+      1,
+      0
+    ],
+    [
+      null,
+      0,
+      11,
+      8,
+      8,
+      3,
+      4,
+      12,
+      6,
+      6,
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      3,
+      3,
+      3,
+      5,
+      3,
+      3,
+      3,
+      6,
+      null,
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      8,
+      8,
+      3,
+      2,
+      2,
+      0
+    ],
+    [
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:02:59.385642Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/slice-of-pepperoni-pizza",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/slice-of-pepperoni-pizza",
+    "de": "https://www.squarecoloring.com/de/vorlage/stueck-salamipizza",
+    "fr": "https://www.squarecoloring.com/fr/fiche/part-de-pizza-au-pepperoni"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Slice of Pepperoni Pizza” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/slice-of-pepperoni-pizza"
+}

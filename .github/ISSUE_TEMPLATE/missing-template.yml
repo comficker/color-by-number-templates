@@ -1,0 +1,16 @@
+name: Missing template
+description: A sheet that is on squarecoloring.com but not in this pack.
+labels: [data]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sheets drawn by members of the site are deliberately left out — only the team's own sheets can be
+        republished here. See SOURCES.md. If the sheet you want is one of those, print it from its page.
+  - type: input
+    id: url
+    attributes:
+      label: The sheet's page
+      placeholder: https://www.squarecoloring.com/page/…
+    validations:
+      required: true

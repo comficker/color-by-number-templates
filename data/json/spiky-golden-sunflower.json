@@ -1,0 +1,301 @@
+{
+  "id": "spiky-golden-sunflower",
+  "name": "Spiky golden sunflower",
+  "width": 14,
+  "height": 13,
+  "squares": 108,
+  "colors": 12,
+  "tags": [
+    "flower",
+    "yellow",
+    "nature",
+    "sunflower",
+    "seed"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#000900",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#8A723D",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#9F842C",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#BBA82C",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#B58612",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#431000",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#795111",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#180006",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#BBA25A",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#592E01",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#B29741",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#826221",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      2,
+      3,
+      0,
+      2,
+      3,
+      0,
+      2,
+      2,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      2,
+      4,
+      2,
+      5,
+      5,
+      2,
+      4,
+      3,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      0,
+      2,
+      5,
+      6,
+      6,
+      5,
+      3,
+      7,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      8,
+      2,
+      5,
+      6,
+      9,
+      9,
+      6,
+      5,
+      2,
+      2,
+      0
+    ],
+    [
+      null,
+      null,
+      0,
+      4,
+      4,
+      0,
+      6,
+      9,
+      9,
+      6,
+      5,
+      4,
+      4,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      0,
+      null,
+      0,
+      6,
+      6,
+      5,
+      10,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      5,
+      5,
+      11,
+      4,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      0,
+      1,
+      10,
+      0,
+      2,
+      4,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      3,
+      0,
+      null,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      2,
+      4,
+      0,
+      null,
+      null,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-22T08:53:57.618235Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/spiky-golden-sunflower",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/spiky-golden-sunflower",
+    "de": "https://www.squarecoloring.com/de/vorlage/goldene-sonnenblume",
+    "fr": "https://www.squarecoloring.com/fr/fiche/tournesol-dore"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Spiky golden sunflower” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/spiky-golden-sunflower"
+}

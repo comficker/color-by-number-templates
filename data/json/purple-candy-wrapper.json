@@ -1,0 +1,253 @@
+{
+  "id": "purple-candy-wrapper",
+  "name": "Purple Candy Wrapper",
+  "width": 13,
+  "height": 13,
+  "squares": 72,
+  "colors": 5,
+  "tags": [
+    "food",
+    "candy",
+    "item",
+    "purple",
+    "sweet"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#5E445F",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#EAAFF0",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#6D3D75",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#9461A5",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#AC85E9",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      1,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      null,
+      2,
+      1,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      1,
+      1,
+      2,
+      2,
+      3,
+      4,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      1,
+      1,
+      4,
+      4,
+      4,
+      2,
+      0,
+      2,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      2,
+      null,
+      null
+    ],
+    [
+      0,
+      0,
+      null,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3,
+      2,
+      null,
+      null
+    ],
+    [
+      2,
+      4,
+      0,
+      2,
+      3,
+      4,
+      4,
+      3,
+      3,
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      2,
+      4,
+      2,
+      2,
+      3,
+      3,
+      0,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      3,
+      0,
+      null,
+      2,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      2,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:04:25.653091Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/purple-candy-wrapper",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/purple-candy-wrapper",
+    "de": "https://www.squarecoloring.com/de/vorlage/lila-bonbon",
+    "fr": "https://www.squarecoloring.com/fr/fiche/bonbon-violet"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Purple Candy Wrapper” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/purple-candy-wrapper"
+}

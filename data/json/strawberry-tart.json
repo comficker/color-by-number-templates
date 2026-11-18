@@ -1,0 +1,337 @@
+{
+  "id": "strawberry-tart",
+  "name": "Strawberry Tart",
+  "width": 14,
+  "height": 14,
+  "squares": 119,
+  "colors": 16,
+  "tags": [
+    "food",
+    "cherry",
+    "dessert",
+    "cake",
+    "pastry"
+  ],
+  "collections": [
+    "printables",
+    "for-adults",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#C12456",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#6E2E2C",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#FDC0BA",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#FFA099",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#A7304F",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#F58186",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#AC242F",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#F56D25",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#E83F39",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#FFAF6F",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#EE5177",
+      "used": true
+    },
+    {
+      "number": 11,
+      "hex": "#E38E4A",
+      "used": true
+    },
+    {
+      "number": 12,
+      "hex": "#D95E6F",
+      "used": true
+    },
+    {
+      "number": 13,
+      "hex": "#9B493B",
+      "used": true
+    },
+    {
+      "number": 14,
+      "hex": "#F6BA57",
+      "used": true
+    },
+    {
+      "number": 15,
+      "hex": "#CF6240",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      0,
+      2,
+      3,
+      4,
+      0,
+      0,
+      null,
+      4,
+      1,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      0,
+      5,
+      2,
+      3,
+      3,
+      3,
+      6,
+      7,
+      1,
+      6,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      0,
+      5,
+      5,
+      2,
+      2,
+      3,
+      6,
+      8,
+      8,
+      6,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      0,
+      5,
+      0,
+      5,
+      5,
+      2,
+      3,
+      6,
+      6,
+      3,
+      3,
+      4,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      9,
+      0,
+      5,
+      5,
+      2,
+      3,
+      3,
+      3,
+      10,
+      10,
+      10,
+      0
+    ],
+    [
+      null,
+      4,
+      11,
+      9,
+      0,
+      0,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      0
+    ],
+    [
+      null,
+      13,
+      11,
+      11,
+      14,
+      9,
+      0,
+      10,
+      10,
+      0,
+      13,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      13,
+      11,
+      11,
+      11,
+      4,
+      0,
+      0,
+      15,
+      15,
+      15,
+      4,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      13,
+      11,
+      11,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      13,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      13,
+      11,
+      15,
+      15,
+      15,
+      15,
+      15,
+      13,
+      13,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      13,
+      13,
+      13,
+      13,
+      13,
+      13,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-24T08:04:44.159293Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/strawberry-tart",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/strawberry-tart",
+    "de": "https://www.squarecoloring.com/de/vorlage/erdbeertoertchen",
+    "fr": "https://www.squarecoloring.com/fr/fiche/tartelette-aux-fraises"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Strawberry Tart” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/strawberry-tart"
+}

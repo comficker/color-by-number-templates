@@ -1,0 +1,162 @@
+{
+  "id": "golden-coin",
+  "name": "Golden Coin",
+  "width": 8,
+  "height": 8,
+  "squares": 52,
+  "colors": 10,
+  "tags": [
+    "coin",
+    "gold",
+    "item",
+    "treasure",
+    "money"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#242836",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#D0AC4C",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#DFB83F",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#F5F39F",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#1C1B23",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#E7C26D",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#D3B428",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#C88B2D",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#3C3A43",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#342213",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      2,
+      3,
+      3,
+      0,
+      null
+    ],
+    [
+      4,
+      5,
+      6,
+      7,
+      7,
+      2,
+      3,
+      0
+    ],
+    [
+      8,
+      1,
+      7,
+      2,
+      3,
+      7,
+      1,
+      0
+    ],
+    [
+      8,
+      1,
+      7,
+      2,
+      2,
+      7,
+      2,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      7,
+      7,
+      2,
+      2,
+      0
+    ],
+    [
+      null,
+      9,
+      2,
+      3,
+      3,
+      2,
+      4,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      8,
+      0,
+      4,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-28T06:40:36.369843Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/golden-coin",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/golden-coin",
+    "de": "https://www.squarecoloring.com/de/vorlage/goldmuenze",
+    "fr": "https://www.squarecoloring.com/fr/fiche/piece-dor"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Golden Coin” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/golden-coin"
+}

@@ -1,0 +1,255 @@
+{
+  "id": "fresh-green-bean",
+  "name": "Fresh Green Bean",
+  "width": 12,
+  "height": 12,
+  "squares": 73,
+  "colors": 11,
+  "tags": [
+    "food",
+    "nature",
+    "green",
+    "vegetable",
+    "bean"
+  ],
+  "collections": [
+    "printables",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#020203",
+      "used": true
+    },
+    {
+      "number": 1,
+      "hex": "#424148",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#383A2C",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#788149",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#50523E",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#62693D",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#474E1D",
+      "used": true
+    },
+    {
+      "number": 7,
+      "hex": "#C4CE79",
+      "used": true
+    },
+    {
+      "number": 8,
+      "hex": "#B2BE3B",
+      "used": true
+    },
+    {
+      "number": 9,
+      "hex": "#576027",
+      "used": true
+    },
+    {
+      "number": 10,
+      "hex": "#B5BA6C",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      4,
+      3,
+      4,
+      3,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2,
+      5,
+      6,
+      3,
+      3,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      7,
+      8,
+      9,
+      3,
+      3,
+      3,
+      0
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      1,
+      8,
+      8,
+      5,
+      3,
+      5,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      10,
+      8,
+      9,
+      6,
+      3,
+      3,
+      5,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      1,
+      8,
+      6,
+      3,
+      3,
+      3,
+      5,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      6,
+      6,
+      3,
+      5,
+      3,
+      0,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      3,
+      5,
+      5,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-22T08:52:03.170793Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/fresh-green-bean",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/fresh-green-bean",
+    "de": "https://www.squarecoloring.com/de/vorlage/gruene-bohne",
+    "fr": "https://www.squarecoloring.com/fr/fiche/haricot-vert"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Fresh Green Bean” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/fresh-green-bean"
+}

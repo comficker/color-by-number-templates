@@ -1,0 +1,262 @@
+{
+  "id": "sleepy-yellow-face",
+  "name": "Sleepy Yellow Face",
+  "width": 13,
+  "height": 13,
+  "squares": 139,
+  "colors": 7,
+  "tags": [
+    "emoji",
+    "face",
+    "yellow",
+    "sleeping"
+  ],
+  "collections": [
+    "printables",
+    "for-kids",
+    "pixel-art"
+  ],
+  "key": [
+    {
+      "number": 0,
+      "hex": "#FFFFFF",
+      "used": false
+    },
+    {
+      "number": 1,
+      "hex": "#FFD504",
+      "used": true
+    },
+    {
+      "number": 2,
+      "hex": "#2290E8",
+      "used": true
+    },
+    {
+      "number": 3,
+      "hex": "#0A97DD",
+      "used": true
+    },
+    {
+      "number": 4,
+      "hex": "#F2D321",
+      "used": true
+    },
+    {
+      "number": 5,
+      "hex": "#552309",
+      "used": true
+    },
+    {
+      "number": 6,
+      "hex": "#0090FF",
+      "used": true
+    }
+  ],
+  "grid": [
+    [
+      null,
+      null,
+      null,
+      null,
+      1,
+      1,
+      2,
+      2,
+      3,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      1,
+      3,
+      3,
+      3
+    ],
+    [
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      1,
+      1,
+      3,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      1,
+      1,
+      5,
+      5,
+      1,
+      1,
+      1,
+      5,
+      5,
+      6,
+      2,
+      2
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null
+    ],
+    [
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null
+    ],
+    [
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "updated": "2026-09-28T06:58:56.779841Z",
+  "squarecoloring": "https://www.squarecoloring.com/page/sleepy-yellow-face",
+  "urls": {
+    "en": "https://www.squarecoloring.com/page/sleepy-yellow-face",
+    "de": "https://www.squarecoloring.com/de/vorlage/muedes-gelbes-gesicht",
+    "fr": "https://www.squarecoloring.com/fr/fiche/visage-jaune-endormi"
+  },
+  "license": "CC-BY-4.0",
+  "credit": "“Sleepy Yellow Face” colour-by-number template by SquareColoring — https://www.squarecoloring.com/page/sleepy-yellow-face"
+}
