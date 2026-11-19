@@ -1,9 +1,8 @@
 # Publishes to npm when a version tag is pushed.
 #
-# Prefers npm's trusted publishing (OIDC), which needs no secret at all: set it
-# up once under the package's Settings → Trusted Publisher on npmjs.com, naming
-# this repository and `publish.yml`. Until that is configured, the job falls
-# back to an NPM_TOKEN repository secret if one exists.
+# Authentication is npm's trusted publishing (OIDC): the package's Trusted
+# Publisher setting on npmjs.com names this repository and this file, so there
+# is no token here and no secret in the repository.
 name: publish
 
 on:
@@ -23,6 +22,9 @@ jobs:
         with:
           node-version: '22'
           registry-url: 'https://registry.npmjs.org'
+      # Node 22 ships npm 10, and trusted publishing needs 11.5.1 or later —
+      # without this the publish falls back to token auth and fails.
+      - run: npm install -g npm@^11.5.1
       - run: npm test
       # A version that is already on the registry is not an error: it means
       # the tag is catching up with a release published by hand. Skip it
@@ -38,5 +40,3 @@ jobs:
           fi
       - if: steps.check.outputs.published == 'no'
         run: npm publish --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

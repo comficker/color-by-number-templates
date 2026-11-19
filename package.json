@@ -1,6 +1,6 @@
 {
   "name": "color-by-number-templates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "113 free colour-by-number / pixel grid templates as JSON and CSV, with the colour key, plus a small library and CLI to render them as SVG. Data from squarecoloring.com.",
   "keywords": [
     "color-by-number",
@@ -46,6 +46,7 @@
     "data",
     "i18n",
     "CATALOG.md",
+    "CHANGELOG.md",
     "SOURCES.md",
     "LICENSE",
     "LICENSE-DATA"
