@@ -24,6 +24,19 @@ jobs:
           node-version: '22'
           registry-url: 'https://registry.npmjs.org'
       - run: npm test
-      - run: npm publish --provenance --access public
+      # A version that is already on the registry is not an error: it means
+      # the tag is catching up with a release published by hand. Skip it
+      # rather than failing the run over nothing.
+      - id: check
+        run: |
+          version=$(node -p "require('./package.json').version")
+          if npm view "color-by-number-templates@$version" version >/dev/null 2>&1; then
+            echo "published=yes" >> "$GITHUB_OUTPUT"
+            echo "$version is already on the registry; nothing to publish."
+          else
+            echo "published=no" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.check.outputs.published == 'no'
+        run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
